@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpWlanApi", "CSharpWlanApi\CSharpWlanApi.csproj", "{6A7DBEB9-6F54-4886-950E-D1886F91270A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A7DBEB9-6F54-4886-950E-D1886F91270A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A7DBEB9-6F54-4886-950E-D1886F91270A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A7DBEB9-6F54-4886-950E-D1886F91270A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A7DBEB9-6F54-4886-950E-D1886F91270A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E8A23C1-C40F-4867-9A70-65D16E0D4B1C}
+	EndGlobalSection
+EndGlobal
